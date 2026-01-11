@@ -1,1 +1,11 @@
-
+cff-version: 1.1.0
+message: "If you use this, please cite it as below."
+authors:
+- family-names: "Anwar"
+  given-names: "Md Sayeed"
+  orcid: "https://orcid.org/0000-0002-3846-2601"
+title: "Experimental evidence of double explosive synchronization in multilayer oscillator
+networks"
+version: 1.0.1
+date-released: 2026-01-11
+url: "https://github.com/imsayeed/Double_explosive_transition"
